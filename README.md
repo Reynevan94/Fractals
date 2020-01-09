@@ -1,1 +1,3 @@
 # Fractals
+
+Repository contains Python scripts generating fractals. These fractals were chosen based on their unique features and recognisability. SImilar fractals that are just variations of included fractals were not implemented. Folder *Outputs* contains examples of images, that can be generated using provided scripts. Gosper and Koch curves were generated via turtle graphics, and the rest using matplotlib library.
