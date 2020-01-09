@@ -4,8 +4,8 @@ x = .1  # normalized initial population (in 0-1 range)
 
 
 xfin = []
-r = 3  # initial r parameter
-rEnd = 3.5  # final r value; 4 makes sense because of mathematical and practical properties of attractor
+r = 1.5  # initial r parameter
+rEnd = 4  # final r value; 4 makes sense because of mathematical and practical properties of attractor
 step = 0.01
 tries = 100
 

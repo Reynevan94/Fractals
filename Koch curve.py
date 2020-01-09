@@ -1,5 +1,4 @@
 import turtle as t
-from PIL import Image
 
 import math
 def TMseq(n):

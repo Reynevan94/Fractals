@@ -1,5 +1,4 @@
 import turtle as t
-from PIL import Image
 
 lineLenght = 10
 reps = 4

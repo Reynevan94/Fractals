@@ -1,9 +1,6 @@
 import numpy as np
 import matplotlib.cm as cm
 import matplotlib.pyplot as plt
-import matplotlib.cbook as cbook
-from matplotlib.path import Path
-from matplotlib.patches import PathPatch
 
 xmin = -2
 xmax = 1
