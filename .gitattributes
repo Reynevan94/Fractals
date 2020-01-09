@@ -1,1 +1,1 @@
-outputs linguist-vendored
+outputs/* linguist-vendored
